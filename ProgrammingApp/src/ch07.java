@@ -1,4 +1,5 @@
 import java.util.Scanner;
+
 public class ch07 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -18,12 +19,13 @@ public class ch07 {
         int count = 0;
         char[] ch_Arr = s.toCharArray();
         for (char c : ch_Arr) {
-            if ((Character.toUpperCase(c) >= 'A' && Character.toUpperCase(c) <= 'Z') || (c >= '0' && c <= '9')) {
-                if (c >= '0' && c <= '9') {
-                    count++;
-                }
+            if (c >= '0' && c <= '9') {
+                count++;
             } else {
-                return false;
+                if ((Character.toUpperCase(c) < 'A' || Character.toUpperCase(c) > 'Z')) {
+
+                    return false;
+                }
             }
         }
         return count >= 2;
