@@ -1,3 +1,5 @@
+package com.seong.prgApp1;
+
 import java.util.Scanner;
 public class ch04 {
     public static void main(String[] args) {

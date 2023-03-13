@@ -1,3 +1,5 @@
+package com.seong.prgApp1;
+
 /**
  * 문제 1.2 a-z 알파벳 출력
  * 작성일:2023-03-06

@@ -1,3 +1,5 @@
+package com.seong.prgApp1;
+
 public class ch09 {
     public static void main(String[] args) {
         String str = "Hello Java World!";
@@ -6,7 +8,7 @@ public class ch09 {
     }
 
     private static String reverse(String str) {
-        String[] words = str.split("");
+        String[] words = str.split(" ");
         String[] reverseWords = new String[words.length];
         StringBuilder stringBuilder = new StringBuilder();
         for (int i = 0; i < words.length; i++) {

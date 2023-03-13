@@ -1,3 +1,5 @@
+package com.seong.prgApp1;
+
 public class ch05 {
     public static void main(String[] args) {
         System.out.println(sTimes("Hi", 3));

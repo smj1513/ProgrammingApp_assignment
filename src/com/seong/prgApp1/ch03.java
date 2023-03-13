@@ -1,3 +1,5 @@
+package com.seong.prgApp1;
+
 import java.util.Scanner;
 
 /*** 문제 1.3 대소문자 판별 및 변환기* 작성일:2023-03-06* 작성자:성민제* */
