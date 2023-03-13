@@ -6,7 +6,7 @@ public class ch08 {
     }
 
     public static void count(String str) {
-        String[] words = str.split("");
+        String[] words = str.split(" ");
         for (int i = 0; i < words.length; i++) {
             System.out.println((i + 1) + " : " + words[i] + " : " + words[i].length());
         }
