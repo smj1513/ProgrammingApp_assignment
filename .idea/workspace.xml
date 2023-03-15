@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eb65053-b35f-4d09-aef3-532009fea02d" name="변경" comment="프로그래밍 응용 1주차 과제">
+      <change afterPath="$PROJECT_DIR$/src/com/seong/prgApp2/Stud.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seong/prgApp2/ch02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seong/prgApp2/ch03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seong/prgApp2/ch04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/seong/prgApp2/ch05.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/seong/prgApp2/ch01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/seong/prgApp2/ch01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678686351241</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="프로그래밍 응용 1주차 과제">
+      <created>1678699556687</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678699556687</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
