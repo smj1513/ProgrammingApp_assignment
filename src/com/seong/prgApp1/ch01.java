@@ -2,7 +2,7 @@ package com.seong.prgApp1;
 
 import java.util.Scanner;
 public class ch01 {
-    public static void main() {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         final int daf_ASCII = 97;
         int number = 0;

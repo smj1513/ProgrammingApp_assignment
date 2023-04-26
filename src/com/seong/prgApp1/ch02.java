@@ -7,7 +7,7 @@ package com.seong.prgApp1;
  * 메인함수
  **/
 public class ch02 {
-    public static void main() {
+    public static void main(String[] args) {
         final int daf_ASCII = 97;
 
         final int loop_num = 26;
